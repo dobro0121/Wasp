@@ -7,8 +7,9 @@
 
 Название          | Статус | Ссылка
 ------------------|--------|--------
-Первое дз         | 🟡    | <a href="https://github.com/dobro0121/Wasp/tree/main/Первое%20ДЗ">Перейти</a>
-Автопарк          | 🟡    | <a href="https://github.com/dobro0121/Wasp/tree/main/Автопарк">Перейти</a>
+Первое дз         | 🟢    | <a href="https://github.com/dobro0121/Wasp/tree/main/Первое%20ДЗ">Перейти</a>
+Автопарк          | 🟢   | <a href="https://github.com/dobro0121/Wasp/tree/main/Автопарк">Перейти</a>
+Музыкальный магазин         | 🟢    | <a href="https://github.com/dobro0121/Wasp/tree/main/Музык.%20магаз">Перейти</a>
 
 
 **Статусы выполнения:** <br>
